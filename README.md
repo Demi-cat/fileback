@@ -1,5 +1,5 @@
 # fileback
-File backup system
+File backup system written in java 8
 
 The following commands are to be provided as arguments during launch.
 
